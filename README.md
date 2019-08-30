@@ -1,6 +1,8 @@
 # hadoop 学习笔记
 * [视频](https://www.bilibili.com/video/av32081351/?p=19)
-* [手册](http://hadoop.apache.org/docs/r1.0.4/cn/quickstart.html)
+* [中文手册](http://hadoop.apache.org/docs/r1.0.4/cn/quickstart.html)
+* [官网](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html)    
+
 # 目录
 -[安装，环境配置](#安装，环境配置)    
 
