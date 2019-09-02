@@ -1,6 +1,6 @@
 # hadoop 学习笔记
 * 视频    
-[尚硅谷大数据之Hadoop](https://www.bilibili.com/video/av32081351/?p=19)
+[尚硅谷大数据之Hadoop](https://www.bilibili.com/video/av32081351/?p=19)        
 [Linux环境搭建（基础、网络配置、集群、hadoop前置课程）](https://www.bilibili.com/video/av23551106/?p=4)
 
 
