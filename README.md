@@ -12,3 +12,4 @@
 
 # 安装，环境配置   
 [配置过程](https://github.com/xiao7462/hadoop/blob/master/配置安装.md)
+[centos6.7搭建hadoop集群](https://xiao7462.github.io/2019/09/08/centos6.7%E6%90%AD%E5%BB%BAhadoop%E9%9B%86%E7%BE%A4%E6%95%99%E7%A8%8B/)
